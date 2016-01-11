@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initiliazing a repository means creating a Git repository. We need to do it to reap the fruits of version-control.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It is the intermediate area between the working directory and the repository. It offers us the file(s) that need to be committed.
