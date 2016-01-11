@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 	Initiliazing a repository means creating a Git repository. We need to do it to reap the fruits of version-control.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	It is the intermediate area between the working directory and the repository. It offers us the file(s) that need to be committed.
+How can you use the staging area to make sure you have one commit per logical change?
+	We can Add only the file(s) with the specific logical change that we want to commit to the Staging Area and then Commit them.
