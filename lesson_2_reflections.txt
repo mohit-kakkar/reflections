@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 	It is the intermediate area between the working directory and the repository. It offers us the file(s) that need to be committed.
 How can you use the staging area to make sure you have one commit per logical change?
 	We can Add only the file(s) with the specific logical change that we want to commit to the Staging Area and then Commit them.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Branches help in keeping history organized whenever there is a possibility of switching from one form to other leaving the previous form as it is or unbroken.
